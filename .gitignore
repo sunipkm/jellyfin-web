@@ -1,0 +1,14 @@
+# npm
+dist
+web
+node_modules
+
+# config
+config.json
+
+# ide
+.idea
+.vscode
+
+# log
+yarn-error.log
